@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\wsl.localhost\\Ubuntu\\home\\trietdao\\GitHubRepos\\cpts321-HWs-fall2023\\Branch_HW10\\DemoExpressionTree\\DemoExpressionTree.csproj": {}
+    "\\\\wsl.localhost\\Ubuntu\\home\\trietdao\\GitHubRepos\\ProjectC#\\Project\\DemoExpressionTree\\DemoExpressionTree.csproj": {}
   },
   "projects": {
-    "\\\\wsl.localhost\\Ubuntu\\home\\trietdao\\GitHubRepos\\cpts321-HWs-fall2023\\Branch_HW10\\DemoExpressionTree\\DemoExpressionTree.csproj": {
+    "\\\\wsl.localhost\\Ubuntu\\home\\trietdao\\GitHubRepos\\ProjectC#\\Project\\DemoExpressionTree\\DemoExpressionTree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\trietdao\\GitHubRepos\\cpts321-HWs-fall2023\\Branch_HW10\\DemoExpressionTree\\DemoExpressionTree.csproj",
+        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\trietdao\\GitHubRepos\\ProjectC#\\Project\\DemoExpressionTree\\DemoExpressionTree.csproj",
         "projectName": "DemoExpressionTree",
-        "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\trietdao\\GitHubRepos\\cpts321-HWs-fall2023\\Branch_HW10\\DemoExpressionTree\\DemoExpressionTree.csproj",
+        "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\trietdao\\GitHubRepos\\ProjectC#\\Project\\DemoExpressionTree\\DemoExpressionTree.csproj",
         "packagesPath": "C:\\Users\\triet\\.nuget\\packages\\",
-        "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\trietdao\\GitHubRepos\\cpts321-HWs-fall2023\\Branch_HW10\\DemoExpressionTree\\obj\\",
+        "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\trietdao\\GitHubRepos\\ProjectC#\\Project\\DemoExpressionTree\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "\\\\wsl.localhost\\Ubuntu\\home\\trietdao\\GitHubRepos\\cpts321-HWs-fall2023\\Branch_HW10\\SpreadsheetEngine\\SpreadsheetEngine.csproj": {
-                "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\trietdao\\GitHubRepos\\cpts321-HWs-fall2023\\Branch_HW10\\SpreadsheetEngine\\SpreadsheetEngine.csproj"
+              "\\\\wsl.localhost\\Ubuntu\\home\\trietdao\\GitHubRepos\\ProjectC#\\Project\\SpreadsheetEngine\\SpreadsheetEngine.csproj": {
+                "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\trietdao\\GitHubRepos\\ProjectC#\\Project\\SpreadsheetEngine\\SpreadsheetEngine.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "\\\\wsl.localhost\\Ubuntu\\home\\trietdao\\GitHubRepos\\cpts321-HWs-fall2023\\Branch_HW10\\SpreadsheetEngine\\SpreadsheetEngine.csproj": {
+    "\\\\wsl.localhost\\Ubuntu\\home\\trietdao\\GitHubRepos\\ProjectC#\\Project\\SpreadsheetEngine\\SpreadsheetEngine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\trietdao\\GitHubRepos\\cpts321-HWs-fall2023\\Branch_HW10\\SpreadsheetEngine\\SpreadsheetEngine.csproj",
+        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\trietdao\\GitHubRepos\\ProjectC#\\Project\\SpreadsheetEngine\\SpreadsheetEngine.csproj",
         "projectName": "SpreadsheetEngine",
-        "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\trietdao\\GitHubRepos\\cpts321-HWs-fall2023\\Branch_HW10\\SpreadsheetEngine\\SpreadsheetEngine.csproj",
+        "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\trietdao\\GitHubRepos\\ProjectC#\\Project\\SpreadsheetEngine\\SpreadsheetEngine.csproj",
         "packagesPath": "C:\\Users\\triet\\.nuget\\packages\\",
-        "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\trietdao\\GitHubRepos\\cpts321-HWs-fall2023\\Branch_HW10\\SpreadsheetEngine\\obj\\",
+        "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\trietdao\\GitHubRepos\\ProjectC#\\Project\\SpreadsheetEngine\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
